@@ -1,0 +1,16 @@
+D:\SMA\Project4\Client1\ProgClient\bin\Debug\ProgClient.exe.config
+D:\SMA\Project4\Client1\ProgClient\bin\Debug\ProgClient.exe
+D:\SMA\Project4\Client1\ProgClient\bin\Debug\ProgClient.pdb
+D:\SMA\Project4\Client1\ProgClient\obj\Debug\ProgClient.exe
+D:\SMA\Project4\Client1\ProgClient\obj\Debug\ProgClient.pdb
+D:\SMA\Project4\Client1\ProgClient\bin\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client1\ProgClient\bin\Debug\XMLDecoder.pdb
+D:\SMA\Project4\Client1\ProgClient\obj\Debug\ProgClient.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Client2\ProgClient\bin\Debug\ProgClient.exe.config
+D:\SMA\Project4\Client2\ProgClient\obj\Debug\ProgClient.exe
+D:\SMA\Project4\Client2\ProgClient\obj\Debug\ProgClient.pdb
+D:\SMA\Project4\Client2\ProgClient\bin\Debug\ProgClient.exe
+D:\SMA\Project4\Client2\ProgClient\bin\Debug\ProgClient.pdb
+D:\SMA\Project4\Client2\ProgClient\bin\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client2\ProgClient\bin\Debug\XMLDecoder.pdb
+D:\SMA\Project4\Client2\ProgClient\obj\Debug\ProgClient.csprojResolveAssemblyReference.cache

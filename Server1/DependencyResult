@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Dependency>
+  <Type>
+    <FilenameFrom>D:\SMA\Project4\Server1\TESTFOLDER\Directory2\xyz.cs</FilenameFrom>
+    <NamespaceFrom>TesterForProject4</NamespaceFrom>
+    <DefinedType>class</DefinedType>
+    <FromName>TestingInr</FromName>
+    <Realtion>Inheritance</Realtion>
+    <FilenameTo>D:\SMA\Project4\Server1\TESTFOLDER\Directory2\xyz.cs</FilenameTo>
+    <NamespaceTo>TesterForProject4</NamespaceTo>
+    <ToName>Testing</ToName>
+  </Type>
+  <Package />
+</Dependency>

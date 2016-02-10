@@ -1,0 +1,16 @@
+E:\Project2\Analyzer\bin\Debug\Analyzer.exe.config
+E:\Project2\Analyzer\bin\Debug\Analyzer.exe
+E:\Project2\Analyzer\bin\Debug\Analyzer.pdb
+E:\Project2\Analyzer\bin\Debug\Parser.exe
+E:\Project2\Analyzer\bin\Debug\Parser.pdb
+E:\Project2\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+E:\Project2\Analyzer\obj\Debug\Analyzer.exe
+E:\Project2\Analyzer\obj\Debug\Analyzer.pdb
+D:\SMA\Project4\Server1\Analyzer\bin\Debug\Analyzer.exe.config
+D:\SMA\Project4\Server1\Analyzer\bin\Debug\Analyzer.exe
+D:\SMA\Project4\Server1\Analyzer\bin\Debug\Analyzer.pdb
+D:\SMA\Project4\Server1\Analyzer\bin\Debug\Parser.exe
+D:\SMA\Project4\Server1\Analyzer\bin\Debug\Parser.pdb
+D:\SMA\Project4\Server1\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Server1\Analyzer\obj\Debug\Analyzer.exe
+D:\SMA\Project4\Server1\Analyzer\obj\Debug\Analyzer.pdb

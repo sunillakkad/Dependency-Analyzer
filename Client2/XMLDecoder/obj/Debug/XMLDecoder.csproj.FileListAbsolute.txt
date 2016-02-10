@@ -1,0 +1,12 @@
+D:\SMA\Project4\Client1\XMLDecoder\bin\Debug\XMLDecoder.exe.config
+D:\SMA\Project4\Client1\XMLDecoder\bin\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client1\XMLDecoder\bin\Debug\XMLDecoder.pdb
+D:\SMA\Project4\Client1\XMLDecoder\obj\Debug\XMLDecoder.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Client1\XMLDecoder\obj\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client1\XMLDecoder\obj\Debug\XMLDecoder.pdb
+D:\SMA\Project4\Client2\XMLDecoder\bin\Debug\XMLDecoder.exe.config
+D:\SMA\Project4\Client2\XMLDecoder\bin\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client2\XMLDecoder\bin\Debug\XMLDecoder.pdb
+D:\SMA\Project4\Client2\XMLDecoder\obj\Debug\XMLDecoder.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Client2\XMLDecoder\obj\Debug\XMLDecoder.exe
+D:\SMA\Project4\Client2\XMLDecoder\obj\Debug\XMLDecoder.pdb

@@ -1,0 +1,17 @@
+E:\Project2\FileManager\bin\Debug\FileManager.exe.config
+E:\Project2\FileManager\bin\Debug\FileManager.exe
+E:\Project2\FileManager\bin\Debug\FileManager.pdb
+E:\Project2\FileManager\obj\Debug\FileManager.exe
+E:\Project2\FileManager\obj\Debug\FileManager.pdb
+D:\SMA\Project4\Server1\FileManager\bin\Debug\FileManager.exe.config
+D:\SMA\Project4\Server1\FileManager\bin\Debug\FileManager.exe
+D:\SMA\Project4\Server1\FileManager\bin\Debug\FileManager.pdb
+D:\SMA\Project4\Server1\FileManager\obj\Debug\FileManager.exe
+D:\SMA\Project4\Server1\FileManager\obj\Debug\FileManager.pdb
+D:\SMA\Project4\Server1\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Server2\FileManager\bin\Debug\FileManager.exe.config
+D:\SMA\Project4\Server2\FileManager\bin\Debug\FileManager.exe
+D:\SMA\Project4\Server2\FileManager\bin\Debug\FileManager.pdb
+D:\SMA\Project4\Server2\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Server2\FileManager\obj\Debug\FileManager.exe
+D:\SMA\Project4\Server2\FileManager\obj\Debug\FileManager.pdb

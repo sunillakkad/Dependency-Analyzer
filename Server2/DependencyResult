@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Dependency>
+  <Type>
+    <FilenameFrom>D:\SMA\Project4\Server2\TESTFOLDER\Project2\test3.cs</FilenameFrom>
+    <NamespaceFrom>Randomness</NamespaceFrom>
+    <DefinedType>class</DefinedType>
+    <FromName>Random</FromName>
+    <Realtion>Using      </Realtion>
+    <FilenameTo>D:\SMA\Project4\Server1\TESTFOLDER\Directory2\xyz.cs</FilenameTo>
+    <NamespaceTo>TesterForProject4</NamespaceTo>
+    <ToName>Testing</ToName>
+    <FilenameFrom>D:\SMA\Project4\Server2\TESTFOLDER\Project2\test3.cs</FilenameFrom>
+    <NamespaceFrom>Lakkad</NamespaceFrom>
+    <DefinedType>class</DefinedType>
+    <FromName>Sunil</FromName>
+    <Realtion>Inheritance</Realtion>
+    <FilenameTo>D:\SMA\Project4\Server2\TESTFOLDER\Project2\test3.cs</FilenameTo>
+    <NamespaceTo>Randomness</NamespaceTo>
+    <ToName>Random</ToName>
+  </Type>
+  <Package>
+    <PackageFrom>D:\SMA\Project4\Server2\TESTFOLDER\Project2\test3.cs</PackageFrom>
+    <PackageTo>D:\SMA\Project4\Server1\TESTFOLDER\Directory2\xyz.cs</PackageTo>
+  </Package>
+</Dependency>

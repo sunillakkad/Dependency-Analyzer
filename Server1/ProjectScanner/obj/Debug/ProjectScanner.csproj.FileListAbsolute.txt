@@ -1,0 +1,6 @@
+D:\SMA\Project4\Server1\ProjectScanner\bin\Debug\ProjectScanner.exe.config
+D:\SMA\Project4\Server1\ProjectScanner\bin\Debug\ProjectScanner.exe
+D:\SMA\Project4\Server1\ProjectScanner\bin\Debug\ProjectScanner.pdb
+D:\SMA\Project4\Server1\ProjectScanner\obj\Debug\ProjectScanner.exe
+D:\SMA\Project4\Server1\ProjectScanner\obj\Debug\ProjectScanner.pdb
+D:\SMA\Project4\Server1\ProjectScanner\obj\Debug\ProjectScanner.csprojResolveAssemblyReference.cache

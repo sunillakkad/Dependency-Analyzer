@@ -1,0 +1,11 @@
+E:\Project2\Parser\bin\Debug\Parser.exe.config
+E:\Project2\Parser\bin\Debug\Parser.exe
+E:\Project2\Parser\bin\Debug\Parser.pdb
+E:\Project2\Parser\obj\Debug\Parser.exe
+E:\Project2\Parser\obj\Debug\Parser.pdb
+D:\SMA\Project4\Server1\Parser\bin\Debug\Parser.exe.config
+D:\SMA\Project4\Server1\Parser\bin\Debug\Parser.exe
+D:\SMA\Project4\Server1\Parser\bin\Debug\Parser.pdb
+D:\SMA\Project4\Server1\Parser\obj\Debug\Parser.exe
+D:\SMA\Project4\Server1\Parser\obj\Debug\Parser.pdb
+D:\SMA\Project4\Server1\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache

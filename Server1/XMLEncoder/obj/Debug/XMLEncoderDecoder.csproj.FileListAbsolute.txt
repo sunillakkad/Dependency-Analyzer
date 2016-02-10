@@ -1,0 +1,8 @@
+D:\SMA\Project4\Server1\XMLEncoder\bin\Debug\XMLEncoder.exe.config
+D:\SMA\Project4\Server1\XMLEncoder\bin\Debug\XMLEncoder.exe
+D:\SMA\Project4\Server1\XMLEncoder\bin\Debug\XMLEncoder.pdb
+D:\SMA\Project4\Server1\XMLEncoder\bin\Debug\Parser.exe
+D:\SMA\Project4\Server1\XMLEncoder\bin\Debug\Parser.pdb
+D:\SMA\Project4\Server1\XMLEncoder\obj\Debug\XMLEncoderDecoder.csprojResolveAssemblyReference.cache
+D:\SMA\Project4\Server1\XMLEncoder\obj\Debug\XMLEncoder.exe
+D:\SMA\Project4\Server1\XMLEncoder\obj\Debug\XMLEncoder.pdb
